@@ -10,6 +10,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "gulp"
   },
+  "bugs": {
+    "url": "https://github.com/JerryBerton/babel-zip.git/issues"
+  },
+  "repository": "https://github.com/JerryBerton/babel-zip.git",
   "author": "wangjingbo",
   "license": "ISC",
   "dependencies": {
