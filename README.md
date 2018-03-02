@@ -1,2 +1,2 @@
 # babel-zip
-this js code babel zip
+npm install babel-zip -g
